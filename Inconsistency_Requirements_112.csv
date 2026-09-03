@@ -1,0 +1,113 @@
+Req_ID,Requirement_Text,Project
+CORN-017,Users shall be able to update profiles,Banking Portal
+CORN-036,The system shall enable generate of transactions,Banking Portal
+CORN-046,The system shall provide functionality to update profiles,Banking Portal
+CORN-048,Users shall be able to delete orders,Banking Portal
+CORN-006,The system shall provide functionality to validate orders,Credit Processing System
+CORN-012,The system shall provide functionality to delete payments,Credit Processing System
+CORN-072,The system shall allow users to create orders,Credit Processing System
+CORN-1058,The system shall handle errors gracefully,Credit Processing System
+CORN-730,Database queries shall execute within 2 milliseconds,Credit Processing System
+CORN-751,Page load time shall not exceed 2 seconds,Credit Processing System
+CORN-767,Page load time shall not exceed 5 seconds,Credit Processing System
+CORN-778,Page load time shall not exceed 10 seconds,Credit Processing System
+CORN-009,Users shall be able to validate reports,Fleet Management System
+CORN-027,The application shall support manage accounts,Fleet Management System
+CORN-041,Users shall be able to generate orders,Fleet Management System
+CORN-044,The system shall provide functionality to update accounts,Fleet Management System
+CORN-821,User authentication shall require OAuth 2.0,Fleet Management System
+CORN-855,User authentication shall require JWT,Fleet Management System
+CORN-867,User authentication shall require RBAC,Fleet Management System
+CORN-912,User authentication shall require OAuth 2.0,Fleet Management System
+CORN-005,The system shall allow users to delete records,Hospital Management System
+CORN-018,The system shall provide functionality to generate data,Hospital Management System
+CORN-028,The application shall support view data,Hospital Management System
+CORN-039,The system shall enable create of reports,Hospital Management System
+CORN-749,Page load time shall not exceed 5 seconds,Hospital Management System
+CORN-811,Page load time shall not exceed 10 seconds,Hospital Management System
+CORN-025,Users shall be able to update transactions,Inventory Management
+CORN-029,The system shall allow users to delete orders,Inventory Management
+CORN-030,Users shall be able to delete profiles,Inventory Management
+CORN-037,The application shall support manage orders,Inventory Management
+CORN-752,Page load time shall not exceed 10 seconds,Inventory Management
+CORN-775,Page load time shall not exceed 30 seconds,Inventory Management
+CORN-792,The system shall respond to user requests within 10 seconds,Inventory Management
+CORN-798,The system shall respond to user requests within 2 seconds,Inventory Management
+CORN-026,Users shall be able to validate records,Investment Management
+CORN-033,Users shall be able to generate records,Investment Management
+CORN-054,The system shall provide functionality to update reports,Investment Management
+CORN-062,Users shall be able to validate orders,Investment Management
+CORN-739,Page load time shall not exceed 30 seconds,Investment Management
+CORN-741,Database queries shall execute within 30 milliseconds,Investment Management
+CORN-755,Page load time shall not exceed 60 seconds,Investment Management
+CORN-809,Database queries shall execute within 5 milliseconds,Investment Management
+CORN-004,The application shall support validate profiles,Learning Management System
+CORN-008,The system shall allow users to view transactions,Learning Management System
+CORN-014,The system shall enable generate of data,Learning Management System
+CORN-016,The system shall enable manage of accounts,Learning Management System
+CORN-813,Page load time shall not exceed 60 seconds,Learning Management System
+CORN-814,Page load time shall not exceed 2 seconds,Learning Management System
+CORN-827,User authentication shall require RBAC,Learning Management System
+CORN-831,User authentication shall require RBAC,Learning Management System
+CORN-007,The application shall support delete reports,Logistics Platform
+CORN-035,Users shall be able to process accounts,Logistics Platform
+CORN-096,The system shall enable update of orders,Logistics Platform
+CORN-1013,The system shall handle errors gracefully,Logistics Platform
+CORN-1005,The system shall recover from failures within 60 minutes,Logistics Platform
+CORN-1040,The system shall recover from failures within 60 minutes,Logistics Platform
+CORN-1045,The system shall recover from failures within 30 minutes,Logistics Platform
+CORN-020,Users shall be able to update profiles,Online Examination
+CORN-045,Users shall be able to view orders,Online Examination
+CORN-074,Users shall be able to delete accounts,Online Examination
+CORN-081,The application shall support delete payments,Online Examination
+CORN-1015,The system shall recover from failures within 60 minutes,Online Examination
+CORN-1024,The system shall recover from failures within 5 minutes,Online Examination
+CORN-1041,The system shall recover from failures within 2 minutes,Online Examination
+CORN-734,The system shall respond to user requests within 60 seconds,Online Examination
+CORN-001,The application shall support manage payments,Online Shopping Platform
+CORN-043,The system shall enable process of orders,Online Shopping Platform
+CORN-060,Users shall be able to create transactions,Online Shopping Platform
+CORN-065,The system shall provide functionality to process accounts,Online Shopping Platform
+CORN-723,The system shall respond to user requests within 30 seconds,Online Shopping Platform
+CORN-733,The system shall respond to user requests within 2 seconds,Online Shopping Platform
+CORN-740,The system shall respond to user requests within 5 seconds,Online Shopping Platform
+CORN-799,The system shall respond to user requests within 5 seconds,Online Shopping Platform
+CORN-021,The application shall support generate orders,Patient Records System
+CORN-031,The system shall allow users to update records,Patient Records System
+CORN-032,Users shall be able to delete payments,Patient Records System
+CORN-052,The system shall enable validate of data,Patient Records System
+CORN-1032,The system shall recover from failures within 5 minutes,Patient Records System
+CORN-724,Database queries shall execute within 30 milliseconds,Patient Records System
+CORN-728,Database queries shall execute within 60 milliseconds,Patient Records System
+CORN-771,Database queries shall execute within 5 milliseconds,Patient Records System
+CORN-011,Users shall be able to create orders,Payment Gateway
+CORN-015,Users shall be able to delete records,Payment Gateway
+CORN-019,The system shall enable generate of data,Payment Gateway
+CORN-047,Users shall be able to generate records,Payment Gateway
+CORN-738,Database queries shall execute within 5 milliseconds,Payment Gateway
+CORN-766,Database queries shall execute within 30 milliseconds,Payment Gateway
+CORN-793,Database queries shall execute within 10 milliseconds,Payment Gateway
+CORN-002,Users shall be able to generate orders,Student Information System
+CORN-024,The application shall support process payments,Student Information System
+CORN-034,The system shall provide functionality to view data,Student Information System
+CORN-058,The system shall enable manage of payments,Student Information System
+CORN-725,The system shall respond to user requests within 2 seconds,Student Information System
+CORN-729,Page load time shall not exceed 30 seconds,Student Information System
+CORN-732,Page load time shall not exceed 30 seconds,Student Information System
+CORN-742,The system shall respond to user requests within 5 seconds,Student Information System
+CORN-022,The system shall provide functionality to view payments,Telemedicine Platform
+CORN-050,The application shall support view payments,Telemedicine Platform
+CORN-076,The system shall allow users to process orders,Telemedicine Platform
+CORN-098,Users shall be able to generate transactions,Telemedicine Platform
+CORN-780,Database queries shall execute within 10 milliseconds,Telemedicine Platform
+CORN-788,Database queries shall execute within 30 milliseconds,Telemedicine Platform
+CORN-873,User authentication shall require RBAC,Telemedicine Platform
+CORN-905,User authentication shall require OAuth 2.0,Telemedicine Platform
+CORN-003,The system shall allow users to create orders,Traffic Control System
+CORN-010,Users shall be able to update payments,Traffic Control System
+CORN-013,The system shall enable process of records,Traffic Control System
+CORN-023,Users shall be able to create reports,Traffic Control System
+CORN-1002,The system shall recover from failures within 5 minutes,Traffic Control System
+CORN-1064,The system shall recover from failures within 60 minutes,Traffic Control System
+CORN-727,Database queries shall execute within 60 milliseconds,Traffic Control System
+CORN-760,Database queries shall execute within 10 milliseconds,Traffic Control System

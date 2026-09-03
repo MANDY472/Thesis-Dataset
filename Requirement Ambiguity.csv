@@ -1,0 +1,81 @@
+id,text,domain,type,project
+CORN-024,The application shall support process payments,Payments,FR,Student Information System
+CORN-045,Users shall be able to view orders,Orders,FR,Online Examination
+CORN-050,The application shall support view payments,Payments,FR,Telemedicine Platform
+CORN-052,The system shall enable validate of data,General,FR,Patient Records System
+CORN-057,The application shall support delete data,General,FR,Learning Management System
+CORN-071,The application shall support create records,General,FR,Student Information System
+CORN-087,The system shall allow users to generate accounts,Accounts,FR,Hospital Management System
+CORN-097,The system shall provide functionality to create transactions,General,FR,Inventory Management
+CORN-1007,The system shall have 99% uptime availability,General,NFR,Inventory Management
+CORN-1054,The system shall handle errors gracefully,General,FR,Investment Management
+CORN-1059,The system shall handle errors gracefully,General,FR,Payment Gateway
+CORN-1066,The code shall be well-documented and modular,General,FR,Learning Management System
+CORN-1077,The code shall be well-documented and modular,General,FR,Investment Management
+CORN-108,The application shall support manage payments,Payments,FR,Banking Portal
+CORN-1080,The system shall support easy configuration updates,General,FR,Learning Management System
+CORN-1111,The system shall support different database platforms,Database,FR,Student Information System
+CORN-1112,The application shall be browser-independent,General,FR,Investment Management
+CORN-1137,The system shall support audit trails,General,FR,Inventory Management
+CORN-159,Users shall be able to update records,Accounts,FR,Patient Records System
+CORN-171,The system shall allow users to update transactions,Accounts,FR,Banking Portal
+CORN-175,The system shall provide functionality to validate orders,Orders,FR,Logistics Platform
+CORN-210,The system shall enable generate of records,General,FR,Hospital Management System
+CORN-211,The application shall support delete transactions,General,FR,Fleet Management System
+CORN-219,The system shall enable create of payments,Payments,FR,Learning Management System
+CORN-244,The system shall enable generate of data,General,FR,Payment Gateway
+CORN-271,The system shall enable update of reports,Reporting,FR,Online Shopping Platform
+CORN-295,The system shall enable delete of accounts,Accounts,FR,Logistics Platform
+CORN-300,Users shall be able to view payments,Payments,FR,Banking Portal
+CORN-307,The application shall support validate payments,Payments,FR,Patient Records System
+CORN-309,The system shall enable process of orders,Orders,FR,Student Information System
+CORN-324,The system shall provide functionality to create accounts,Accounts,FR,Investment Management
+CORN-329,The application shall support create profiles,General,FR,Hospital Management System
+CORN-334,The system shall provide functionality to generate orders,Orders,FR,Traffic Control System
+CORN-337,The application shall support validate profiles,General,FR,Student Information System
+CORN-352,The application shall support view orders,Orders,FR,Hospital Management System
+CORN-391,The system shall allow users to view reports,Accounts,FR,Investment Management
+CORN-423,The system shall enable process of orders,Orders,FR,Hospital Management System
+CORN-433,The system shall provide functionality to delete records,General,FR,Payment Gateway
+CORN-434,The application shall support generate records,General,FR,Patient Records System
+CORN-450,Users shall be able to manage reports,Accounts,FR,Banking Portal
+CORN-468,Users shall be able to manage records,Accounts,FR,Payment Gateway
+CORN-483,The system shall enable generate of data,General,FR,Traffic Control System
+CORN-502,The system shall allow users to update reports,Accounts,FR,Inventory Management
+CORN-507,The application shall support delete reports,Reporting,FR,Online Examination
+CORN-531,The system shall allow users to update accounts,Accounts,FR,Traffic Control System
+CORN-532,The system shall allow users to update data,Accounts,FR,Online Shopping Platform
+CORN-534,The application shall support create profiles,General,FR,Hospital Management System
+CORN-539,The system shall provide functionality to validate data,General,FR,Learning Management System
+CORN-543,The system shall provide functionality to validate accounts,Accounts,FR,Credit Processing System
+CORN-550,The system shall enable manage of transactions,General,FR,Investment Management
+CORN-561,The system shall allow users to process orders,Orders,FR,Traffic Control System
+CORN-567,The system shall enable delete of records,General,FR,Payment Gateway
+CORN-614,Users shall be able to manage payments,Payments,FR,Traffic Control System
+CORN-615,Users shall be able to process reports,Accounts,FR,Inventory Management
+CORN-631,The application shall support process transactions,General,FR,Fleet Management System
+CORN-650,The system shall enable create of reports,Reporting,FR,Traffic Control System
+CORN-661,The application shall support create profiles,General,FR,Credit Processing System
+CORN-666,Users shall be able to create payments,Payments,FR,Online Shopping Platform
+CORN-669,The application shall support delete transactions,General,FR,Patient Records System
+CORN-732,Page load time shall not exceed 30 seconds,General,FR,Student Information System
+CORN-746,Page load time shall not exceed 5 seconds,General,FR,Logistics Platform
+CORN-753,The system shall respond to user requests within 10 seconds,Accounts,FR,Online Examination
+CORN-760,Database queries shall execute within 10 milliseconds,Database,FR,Traffic Control System
+CORN-788,Database queries shall execute within 30 milliseconds,Database,FR,Telemedicine Platform
+CORN-810,Database queries shall execute within 10 milliseconds,Database,FR,Banking Portal
+CORN-813,Page load time shall not exceed 60 seconds,General,FR,Learning Management System
+CORN-847,Access control shall be implemented using RSA,General,FR,Credit Processing System
+CORN-849,The system shall log all security events,Security,NFR,Inventory Management
+CORN-860,User authentication shall require AES-256,Accounts,FR,Hospital Management System
+CORN-867,User authentication shall require RBAC,Accounts,FR,Fleet Management System
+CORN-876,The system shall encrypt all sensitive data using SSL/TLS,General,FR,Hospital Management System
+CORN-911,The system shall encrypt all sensitive data using RBAC,General,FR,Traffic Control System
+CORN-913,Error messages shall be clear and actionable,Messaging,FR,Credit Processing System
+CORN-928,The user interface shall be intuitive and user-friendly,Accounts,FR,Inventory Management
+CORN-934,The system shall provide help documentation,General,FR,Hospital Management System
+CORN-935,The system shall provide help documentation,General,FR,Hospital Management System
+CORN-938,The system shall provide help documentation,General,FR,Online Examination
+CORN-944,Error messages shall be clear and actionable,Messaging,FR,Fleet Management System
+CORN-949,Error messages shall be clear and actionable,Messaging,FR,Credit Processing System
+CORN-983,The user interface shall be intuitive and user-friendly,Accounts,FR,Logistics Platform
